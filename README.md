@@ -37,37 +37,17 @@
 
 * * * 
 
-### 🏁 CTFs
-
-<a rel="external" href="https://tryhackme.com/p/davidjktofan" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/davidjktofan.png" alt="TryHackMe Profile Badge"></a>
-
-<a rel="external" href="https://www.codewars.com/users/DavidJKTofan/" target="_blank"><img src="https://www.codewars.com/users/DavidJKTofan/badges/large" alt="CodeWars"></a>
-
-* * * 
-
-### 📙 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Setting Up a New macOS](https://davidtofan.com/articles/setting-up-new-macos/)
-- [Protecting OSI layers](https://davidtofan.com/articles/protecting-osi-layers/)
-- [Cybersecurity and Artificial Intelligence &lpar;AI&rpar;](https://davidtofan.com/articles/ai-cybersecurity/)
-- [The Ultimate Traveler&#39;s Guide](https://davidtofan.com/articles/global-ultimate-travelers-guide/)
-- [Cloudflare&#39;s Impact, Commitments, Privacy-preserving Products, Research, and more](https://davidtofan.com/articles/cloudflare-impact-commitment-privacy-research/)
-<!-- BLOG-POST-LIST:END -->
 
 
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaachahboune&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaachahboune" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaachahboune" alt="hamzaachahboune" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
